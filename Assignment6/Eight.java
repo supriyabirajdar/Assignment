@@ -1,5 +1,3 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 /*Accept three numbers from user and return difference between
 largest and smallest digit*/ 
 import java.util.Scanner;
